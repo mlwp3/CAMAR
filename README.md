@@ -7,7 +7,9 @@ Code for selected models will be available soon in the 'Code' folder.
 If you have any questions please feel free to reach out to one of us!
 
 Navarun Jain - navarun.jain@luxactuaries.com
+
 Marco de Virgilis - devirgilis.marco@gmail.com
+
 Nate Loughin - nloughin@kpmg.com
 
 Cheers!
